@@ -1,0 +1,16 @@
+/.git
+/.github
+/.vercel
+/node_modules
+/vendor
+/.env
+/.env.*
+/tests
+/database/*.sqlite*
+/storage/logs
+/public/hot
+/vercel.env
+/adminakses.md
+/README.md
+/phpunit.xml
+/.phpunit.result.cache
